@@ -2,7 +2,7 @@
   "name": "ts-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "/build/app.js",
   "scripts": {
     "dev": "nodemon --watch \"./**/*.ts\" --exec \"ts-node\" app.ts"
   },
